@@ -30,7 +30,7 @@ public class Main {
             jdbctest.addBatch(connection);
 
 
-//
+//fuckyoubill
 
             List<Student> students = jdbctest.getStudents(connection);
 
