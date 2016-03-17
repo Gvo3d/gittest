@@ -30,7 +30,7 @@ public class Main {
             jdbctest.addBatch(connection);
 
 
-
+//
 
             List<Student> students = jdbctest.getStudents(connection);
 
